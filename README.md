@@ -13,7 +13,7 @@ Reference:
 
 ## Links
 
-- **Documentation**: https://ostasovskyi.github.io/TROP-Estimator/
+- **Documentation**: https://zhaonanq.github.io/TROP-Estimator/
 - **Source code**: https://github.com/ostasovskyi/TROP-Estimator
 
 ---
