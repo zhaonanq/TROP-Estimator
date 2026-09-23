@@ -14,7 +14,7 @@ Reference:
 ## Links
 
 - **Documentation**: https://zhaonanq.github.io/TROP-Estimator/
-- **Source code**: https://github.com/ostasovskyi/TROP-Estimator
+- **Source code**: https://github.com/zhaonanq/TROP-Estimator
 
 ---
 
