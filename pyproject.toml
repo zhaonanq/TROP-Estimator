@@ -52,10 +52,10 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/ostasovskyi/TROP-Estimator"
-Repository = "https://github.com/ostasovskyi/TROP-Estimator"
-Issues = "https://github.com/ostasovskyi/TROP-Estimator/issues"
-Documentation = "https://ostasovskyi.github.io/TROP-Estimator/"
+Homepage = "https://github.com/zhaonanq/TROP-Estimator"
+Repository = "https://github.com/zhaonanq/TROP-Estimator"
+Issues = "https://github.com/zhaonanq/TROP-Estimator/issues"
+Documentation = "https://zhaonanq.github.io/TROP-Estimator/"
 
 [project.optional-dependencies]
 dev = [
