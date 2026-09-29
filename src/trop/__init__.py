@@ -1,6 +1,7 @@
 from .estimator import TROP_TWFE_average
 from .cv import TROP_cv_single, TROP_cv_cycle, TROP_cv_joint, adaptive_TROP_cv
 from .baselines import DID_TWFE, SC_TWFE, DIFP_TWFE, SDID_weights, SDID_TWFE
+from .inference import BootstrapResult, bootstrap
 from .simulation import (
     SimulationComponents,
     decompose_panel,
@@ -25,6 +26,8 @@ __all__ = [
     "DIFP_TWFE",
     "SDID_weights",
     "SDID_TWFE",
+    "bootstrap",
+    "BootstrapResult",
     "SimulationComponents",
     "decompose_panel",
     "estimate_ar2_covariance",
