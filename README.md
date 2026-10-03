@@ -15,6 +15,7 @@ Reference:
 
 - **Documentation**: https://zhaonanq.github.io/TROP-Estimator/
 - **Source code**: https://github.com/zhaonanq/TROP-Estimator
+- **PyPI page**: https://pypi.org/project/trop/
 
 ---
 
